@@ -1,0 +1,32 @@
+:root {
+  --tinta: #121316;
+  --grafite: #2a2d33;
+  --texto-2: #4a4e57;
+  --texto-suave: #6b6f78;
+  --borda: #e7e7e4;
+  --superficie: #f6f6f3;
+  --superficie-2: #f2f2ef;
+  --branco: #ffffff;
+  --destaque: #2741c6;
+  --destaque-suave: #eef1fd;
+  --sucesso: #1f7a4d;
+  --erro: #b42318;
+  --esqueleto: #ecece8;
+
+  --rodape-fundo: #0f1012;
+  --rodape-texto: #d3d5d9;
+  --rodape-suave: #8e9198;
+  --rodape-borda: #26282d;
+
+  --fonte: 'Poppins', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+
+  --raio-card: 18px;
+  --raio-pilula: 999px;
+
+  --sombra-hover: 0 14px 36px -14px rgba(18, 19, 22, 0.22);
+  --sombra-menu: 0 18px 40px -16px rgba(18, 19, 22, 0.25);
+
+  --largura-max: 1264px;
+  --margem-lateral: 20px;
+  --toque-min: 44px;
+}
